@@ -1,4 +1,4 @@
-## 👏 Hi, I'm *your name here*
+## 👏 Hello, I'm Jacob Tiedemann
 ##  About Me
 _Share some information about yourself, including your class, major, jobs, and extra-curriculars._
 ## ⚒️ Skills
