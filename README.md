@@ -1,6 +1,6 @@
 ## 👏 Hello, I'm Jacob Tiedemann
 ##  About Me
-_Share some information about yourself, including your class, major, jobs, and extra-curriculars._
+I'm a student at UTSA majoring in cybersecurity
 ## ⚒️ Skills
 ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
